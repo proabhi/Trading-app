@@ -25,7 +25,7 @@
 
 
 
-		<div class="jumbotron jumbotron-fluid " style="padding: 2%">
+		<div class="jumbotron jumbotron-fluid" style="padding: 2%">
 			<div class="container">
 				<h2 class="display-4">Trading_point</h2>
 				<hr>
