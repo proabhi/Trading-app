@@ -86,7 +86,7 @@
 									alt="Card image cap">
 								<div class="card-body">
 
-									<p class="card-text">Price : ${price_nifty}</p>
+									<p class=" card-text">Price : ${price_nifty}</p>
 
 									<p class="card-text">Open : ${open_nifty}</p>
 									<p class="card-text">High : ${high_nifty}</p>
